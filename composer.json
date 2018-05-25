@@ -1,0 +1,11 @@
+{
+    "name": "soul11201/crud-over-http",
+    "license": "GPL 2.0",
+    "authors": [
+        {
+            "name": "soul11201",
+            "email": "soul11201@gmail.com"
+        }
+    ],
+    "require": {}
+}
